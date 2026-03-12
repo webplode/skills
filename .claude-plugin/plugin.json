@@ -2,5 +2,5 @@
   "name": "kuckit",
   "version": "1.0.0",
   "description": "Multi-agent coordination skills for planning, orchestration, and execution",
-  "skills": "../skills/"
+  "skills": "./skills/"
 }
